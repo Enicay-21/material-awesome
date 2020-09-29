@@ -20,7 +20,7 @@ return {
     social = 'discord',
     game = rofi_command,
     files = 'nautilus',
-    music = rofi_command 
+    media = 'kodi' 
   },
   -- List of apps to start once on start-up
   run_on_start_up = {
